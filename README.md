@@ -77,7 +77,7 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Faire | Data Science Intern | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://boards.greenhouse.io/faire/jobs/8376377002) | Jan 15, 2026 |
 | CAE | C++ CGF Unreal Developer Intern | Montreal, QC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://cae.wd3.myworkdayjobs.com/career/job/Montreal-St-Laurent/C-GE-416--C---CGF-Unreal-Developer-Intern-_119995) | Jan 15 |
 | Warner Bros. | Software Developer Co-op | Kanata, Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://warnerbros.wd5.myworkdayjobs.com/global/job/Kanata-307-Legget-Dr/Software-Developer-Co-op_R000098965-1) | Jan 15 |
-| Electronic Arts | Game Creation SW Engineer Intern | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ea.com/en_US/careers/JobDetail/Game-Creation-SW-Engineer-Intern/210902) | Jan 15 |
+| Electronic Arts | Game Creation SW Engineer Intern | Vancouver, BC | Closed🔒 | Jan 15 |
 | Waabi | Systems Software Engineer Internship/Co-op | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.lever.co/waabi/9873fd9d-285f-4bf5-ac74-f69547615bc9) | Jan 15 |
 | British Columbia Investment | Enterprise Solutions Software Engineer Intern/Co-op | Victoria, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Enterprise-Solutions--Software-Engineer-Co-op-Internship--Summer-and-or-Fall-2026-_JR101373) | Jan 15 |
 | ↳ | Software Engineering | Victoria, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Software-Engineering--MIITS--Co-op-Internship--Summer---Fall-2026-_JR101364) | Jan 15 |
@@ -177,8 +177,8 @@ Star this repo ⭐ or watch for updates, I’ll post as soon as companies open a
 | Ripple | C++ Software Engineer Intern, RippleX | Toronto, ON | Closed🔒 | Dec 16 |
 | Nokia | Web Developer Intern/Co-op | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28669) | Dec 16 |
 | Ripple | Software Engineer Intern - RippleX DGE | Toronto, ON | Closed🔒 | Dec 15 |
-| ↳ | Software Engineer Intern - RippleX Quality Enforcers | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ripple.com/careers/all-jobs/job/7455922/) | Dec 15 |
-| ↳ | Software Engineer Intern - RippleX Platform | Toronto, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://ripple.com/careers/all-jobs/job/7458195/) | Dec 15 |
+| ↳ | Software Engineer Intern - RippleX Quality Enforcers | Toronto, ON | Closed🔒 | Dec 15 |
+| ↳ | Software Engineer Intern - RippleX Platform | Toronto, ON | Closed🔒 | Dec 15 |
 | Electronic Arts | Software Engineer Intern - AI/ML QVS | Vancouver, BC | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://jobs.ea.com/en_US/careers/JobDetail/Software-Engineer-Intern-Canada-AI-ML-QVS-8-Months-Summer-2026/210893) | Dec 15 |
 | Nokia | Full Stack Dev Cloud and ML Co-op/Intern | Ottawa, ON | [![Apply](https://img.shields.io/badge/-Apply-blue?style=for-the-badge)](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/28808) | Dec 15 |
 | ↳ | Security Software Developer Intern/Co-op | Ottawa, ON | Closed🔒 | Dec 12 |
